@@ -1,0 +1,6 @@
+name = "Test-PackageName"
+# badges = ["travis"]
+authority="cpan:SKAJI"
+
+module_maker="ModuleBuildTiny"
+
