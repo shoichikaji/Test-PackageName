@@ -8,7 +8,7 @@ use Module::Metadata;
 use File::Find ();
 
 use Exporter 'import';
-our @EXPORT = (@Test::More::EXPORT, 'all_package_name_ok');
+our @EXPORT = ('all_package_name_ok');
 
 our $VERSION = "0.01";
 
