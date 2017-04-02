@@ -77,16 +77,15 @@ I recommend you to add the following alias to your C<.bashrc> or C<.zshrc>:
 
 and type C<test_package_name> anytime.
 
-=head1 LICENSE
+=head1 AUTHOR
 
-Copyright (C) Shoichi Kaji.
+Shoichi Kaji <skaji@cpan.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright 2017 Shoichi Kaji <skaji@cpan.org>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
-=head1 AUTHOR
-
-Shoichi Kaji E<lt>skaji@cpan.orgE<gt>
-
 =cut
-
